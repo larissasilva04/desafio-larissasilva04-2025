@@ -4,6 +4,7 @@ Desafio técnico: Sistema inteligente para encontrar a melhor combinação entre
 
 🎯 Visão Geral
 Este projeto implementa um algoritmo de compatibilidade que analisa os brinquedos que cada pessoa possui e determina qual animal do abrigo seria mais adequado para cada uma, considerando as preferências e necessidades específicas de cada animal.
+
 ⚡ Funcionalidades
 
 ✅ Análise de Compatibilidade: Verifica se uma pessoa tem todos os brinquedos necessários para um animal
@@ -200,9 +201,11 @@ v1.0.0 (2024-09-09)
 ✅ Documentação completa
 
 👨‍💻 Autor
+
 Larissa - Desenvolvimento Full Stack
 
 GitHub: @larissasilva04
+
 LinkedIn: https://www.linkedin.com/in/larissasilva-costa/
 
 
